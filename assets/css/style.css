@@ -1,6 +1,7 @@
 body {
-    background-color: lightgrey;
+    /* background-color: lightgrey; */
     /*color: red;*/
+    background-image: url("/assets/images/KaizenShotokanKarateLogo.jpg");
     margin: 0;
     padding: 0;
 }
@@ -20,9 +21,12 @@ body {
     text-align: center;
 }
 
-.watermark {
-    opacity: 0.2;
-}
+/* .watermark {
+    /* opacity: 0.2;
+    margin: auto; */
+    /* background-image: url(/assets/images/Kaizen\ Shotokan\ Karate\ Logo.jpg);
+} */ 
+
 h1 {
     font-size: 750%;
 }
