@@ -30,18 +30,60 @@ h1 {
     color: grey
 }
 
-/*.box {
-    content: "";
-    display: block;
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(#2B3A48 0%, transparent 0%), linear-gradient(135deg, #272220 33.33%, transparent 33.33%) 0 0%, #272220 linear-gradient(45deg, #272220 33.33%, #2B3A48 33.33%) 0 0%;
-    background: -webkit-linear-gradient(#2B3A48 0%, transparent 0%), -webkit-linear-gradient(135deg, #272220 33.33%, transparent 33.33%) 0 0%, #272220 -webkit-linear-gradient(45deg, #272220 33.33%, #2B3A48 33.33%) 0 0%;
-    background: -o-linear-gradient(#2B3A48 0%, transparent 0%), -o-linear-gradient(135deg, #272220 33.33%, transparent 33.33%) 0 0%, #272220 -o-linear-gradient(45deg, #272220 33.33%, #2B3A48 33.33%) 0 0%;
-    background: -moz-linear-gradient(#2B3A48 0%, transparent 0%), -moz-linear-gradient(135deg, #272220 33.33%, transparent 33.33%) 0 0%, #272220 -moz-linear-gradient(45deg, #272220 33.33%, #2B3A48 33.33%) 0 0%;
-    background-repeat: repeat-x;
-    background-size: 0px 100%, 9px 27px, 9px 27px;
-  }*/
+/* body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+  }
+  
+  header {
+    background: #d21034;
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #333;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #d21034;
+  }
+  
+  .container {
+    width: 1024px;
+    margin: 0 auto;
+  }
+  
+  #main-bio,
+  #contact-info,
+  #bio-image {
+    float: left;
+  }
+  
+  #main-bio {
+    width: 70%;
+  }
+  
+  #contact-info {
+    width: 30%;
+  }
+  
+  #bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  } */
+  
