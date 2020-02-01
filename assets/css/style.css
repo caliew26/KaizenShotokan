@@ -1,7 +1,6 @@
 body {
     /* background-color: lightgrey; */
     /*color: red;*/
-    background-image: url("/assets/images/KaizenShotokanKarateLogo.jpg");
     margin: 0;
     padding: 0;
 }
@@ -12,9 +11,17 @@ body {
     color: red;
 }
 
+img {
+  background-image: url("KaizenShotokanKarateLogo.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.2;
+}
 
 .header {
-    border: 2px solid purple;
+    /* border: 2px solid purple; 
+    background-color: #ccc;*/
     color: black;
     padding-top: 20px;
     padding-bottom: 20px;
